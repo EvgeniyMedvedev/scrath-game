@@ -1,0 +1,11 @@
+.label {
+    -fx-font-size: 14px; /* Размер шрифта */
+    -fx-text-fill: #333; /* Цвет текста */
+    -fx-background-color: #f0f0f0; /* Цвет фона */
+    -fx-padding: 10px; /* Отступы внутри метки */
+    -fx-border-color: #ccc; /* Цвет границы */
+    -fx-border-width: 1px; /* Ширина границы */
+    -fx-pref-width: 142;
+    -fx-pref-height: 95;
+    -fx-alignment: center;
+}
